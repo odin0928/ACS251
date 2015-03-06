@@ -1,0 +1,7 @@
+D:\C#\Example01\Example\HomeWork01\bin\Debug\HomeWork01.exe
+D:\C#\Example01\Example\HomeWork01\bin\Debug\HomeWork01.pdb
+D:\C#\Example01\Example\HomeWork01\obj\x86\Debug\HomeWork01.Form1.resources
+D:\C#\Example01\Example\HomeWork01\obj\x86\Debug\HomeWork01.Properties.Resources.resources
+D:\C#\Example01\Example\HomeWork01\obj\x86\Debug\HomeWork01.csproj.GenerateResource.Cache
+D:\C#\Example01\Example\HomeWork01\obj\x86\Debug\HomeWork01.exe
+D:\C#\Example01\Example\HomeWork01\obj\x86\Debug\HomeWork01.pdb
